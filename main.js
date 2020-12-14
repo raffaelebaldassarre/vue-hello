@@ -5,6 +5,7 @@
 let app = new Vue({
     el: "#root",
     data: {
-        message: "Hello VueJS"
+        message: "Welcome to Wadi Rum",
+        image: "DSC_0152.JPG"
     }
 });
